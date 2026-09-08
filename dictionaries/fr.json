@@ -12,7 +12,8 @@
     "creativeContent": "Contenu Créatif",
     "aiServices": "IA Apps",
     "login": "Connexion",
-    "createFreeAccount": "Créer un Compte Gratuit"
+    "createFreeAccount": "Créer un Compte Gratuit",
+    "services": "Services"
   },
   "banner": {
     "headline": {
@@ -109,5 +110,22 @@
     "title": "Chat de IA",
     "description": "Chatea con respuestas impulsadas por IA.",
     "backToHome": "Volver a Inicio"
+  },
+  "services": {
+    "title": "Services de Développement",
+    "frontendTitle": "Développement Front-End Moderne (React / Next.js / Tailwind)",
+    "frontendDescription": "Création d'applications web modernes, rapides et responsives avec React, Next.js et Tailwind CSS. Idéal pour startups, sites d'entreprise ou tableaux de bord fonctionnels.",
+    "frontendItem1": "Intégration fidèle à partir de Figma",
+    "frontendItem2": "Design responsive et optimisation UX",
+    "frontendItem3": "Composants réutilisables et architecture évolutive",
+    "frontendItem4": "Déploiement sur Vercel, Netlify ou hébergement personnalisé",
+    "aiTitle": "MVPs avec IA (OpenAI + SDK de Vercel)",
+    "aiDescription": "Prototypes fonctionnels boostés par l'IA, pour validation d'idées et automatisation de processus.",
+    "aiItem1": "Intégration avec les modèles GPT-4 (OpenAI)",
+    "aiItem2": "Développement avec React, Next.js et Tailwind",
+    "aiItem3": "Réponses intelligentes et génération de contenu",
+    "aiItem4": "Intégrations possibles : upload de fichiers, Fabric.js, Stripe",
+    "readyTitle": "Prêt à démarrer ?",
+    "readyText": "Écrivez-moi à"
   }
 }

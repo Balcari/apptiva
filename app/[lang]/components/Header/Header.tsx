@@ -14,6 +14,7 @@ interface HeaderProps {
     aiServices: string;
     login: string;
     createFreeAccount: string;
+    services: string;
   };
 }
 
@@ -53,6 +54,9 @@ const Header: React.FC<HeaderProps> = ({ dictionary }) => {
           </a>
           <a href="/#ai" className={styles.navLink}>
             {dictionary.aiServices}
+          </a>
+          <a href="/services" className={styles.navLink}>
+            {dictionary.services}
           </a>
         </nav>
 
@@ -100,6 +104,9 @@ const Header: React.FC<HeaderProps> = ({ dictionary }) => {
           </a>
           <a href="/#ai" className={styles.mobileMenuLink}>
             {dictionary.aiServices}
+          </a>
+          <a href="/services" className={styles.mobileMenuLink}>
+            {dictionary.services}
           </a>
           <button className={`${styles.loginButton} w-full text-left`}>
             {dictionary.login}

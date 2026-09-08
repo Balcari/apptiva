@@ -69,7 +69,7 @@ export default async function RootLayout(props: {
     <html lang={params.lang} className={`${inter.variable} ${roboto.variable} ${coveredByYourGrace.variable}`}>
       <body>
         {/* Pass dictionary to Header */}
-        <Header dictionary={dictionary["nav"]} />
+        <Header dictionary={dictionary.nav} />
         {children}
         <Footer dictionary={dictionary.footer} />
       </body>

@@ -12,7 +12,8 @@
     "creativeContent": "Creative Content",
     "aiServices": "AI Apps",
     "login": "Login",
-    "createFreeAccount": "Create Free Account"
+    "createFreeAccount": "Create Free Account",
+    "services": "Services"
   },
   "banner": {
     "headline": {
@@ -109,5 +110,22 @@
     "title": "AI Chat",
     "description": "Chat with AI-powered responses.",
     "backToHome": "Back to Home"
+  },
+  "services": {
+    "title": "Development Services",
+    "frontendTitle": "Modern Front-End Development (React / Next.js / Tailwind)",
+    "frontendDescription": "Development of modern, fast, and responsive web apps using React, Next.js, and Tailwind CSS. Ideal for startups, corporate sites, or functional dashboards.",
+    "frontendItem1": "Pixel-perfect implementation from Figma",
+    "frontendItem2": "Responsive design and UX optimization",
+    "frontendItem3": "Reusable components and scalable architecture",
+    "frontendItem4": "Deploy to Vercel, Netlify, or custom hosting",
+    "aiTitle": "AI-Powered MVPs (OpenAI + Vercel SDK)",
+    "aiDescription": "Functional prototypes enhanced with AI, ideal for entrepreneurs, idea validation, and automation.",
+    "aiItem1": "Integration with GPT-4 models (OpenAI)",
+    "aiItem2": "Developed using React, Next.js, and Tailwind",
+    "aiItem3": "Smart answers and content generation",
+    "aiItem4": "Optional integrations: file upload, Fabric.js, Stripe",
+    "readyTitle": "Ready to get started?",
+    "readyText": "Write to me at"
   }
 }
